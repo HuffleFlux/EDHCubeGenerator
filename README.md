@@ -1,1 +1,3 @@
 # EDHCubeGenerator
+
+# TO USE THIS YOU HAVE TO HAVE MTGJSON ALLPRINTINGS IN THE SAME DIRECTORY AS THIS. Otherwise try fetching MTGJSON from the web

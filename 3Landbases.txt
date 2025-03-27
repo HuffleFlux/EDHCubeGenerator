@@ -1,0 +1,1396 @@
+White:
+
+Emeria, the Sky Ruin
+War Room
+Myriad Landscape
+Nykthos, Shrine to Nyx
+Minas Tirith
+Eiganjo, Seat of the Empire
+Rogue's Passage
+Reliquary Tower
+Castle Ardenvale
+Windbrisk Heights
+Path of Ancestry
+Secluded Steppe
+Seraph Sanctuary
+Monumental Henge
+Ancient Tomb
+Hall of Heliod's Generosity
+Temple of the False God
+Three Tree City
+Urza's Saga
+Cavern of Souls
+Buried Ruin
+Snow-Covered Plains
+Bonders' Enclave
+Idyllic Grange
+Idyllic Grange
+Flagstones of Trokair
+Karoo
+Mistveil Plains
+
+Blue:
+
+Reliquary Tower
+Mystic Sanctuary
+Myriad Landscape
+Otawara, Soaring City
+Castle Vantress
+Academy Ruins
+Seat of the Synod
+Urza's Saga
+War Room
+Lonely Sandbar
+Nykthos, Shrine to Nyx
+Rogue's Passage
+Ancient Tomb
+Buried Ruin
+Inventors' Fair
+Rivendell
+Riptide Laboratory
+Archway of Innovation
+Darksteel Citadel
+Halimar Depths
+Minamo, School at Water's Edge
+Temple of the False God
+Snow-Covered Island
+Cephalid Coliseum
+
+Black:
+
+Cabal Coffers
+Bojuka Bog
+Cabal Stronghold
+Urborg, Tomb of Yawgmoth
+Reliquary Tower
+Nykthos, Shrine to Nyx
+Myriad Landscape
+Witch's Cottage
+Phyrexian Tower
+Castle Locthwain
+Takenuma, Abandoned Mire
+War Room
+Rogue's Passage
+Geier Reach Sanitarium
+Mortuary Mire
+Ancient Tomb
+Barren Moor
+Crypt of Agadeem
+Shizo, Death's Storehouse
+Spymaster's Vault
+Command Beacon
+Snow-Covered Swamp
+Temple of the False God
+Urza's Cave
+Urza's Saga
+Thespian's Stage
+Buried Ruin
+Cavern of Souls
+
+Red:
+
+War Room
+Myriad Landscape
+Valakut, the Molten Pinnacle
+Forgotten Cave
+Rogue's Passage
+Arena of Glory
+Castle Embereth
+Nykthos, Shrine to Nyx
+Buried Ruin
+Ancient Tomb
+Spinerock Knoll
+Dwarven Mine
+Great Furnace
+Mines of Moria
+Urza's Saga
+Command Beacon
+Cavern of Souls
+Reliquary Tower
+Sokenzan, Crucible of Defiance
+Temple of the False God
+Path of Ancestry
+Snow-Covered Mountain
+Darksteel Citadel
+Den of the Bugbear
+Inventors' Fair
+Kher Keep
+
+Green:
+
+Rogue's Passage
+Reliquary Tower
+Castle Garenbrig
+Nykthos, Shrine to Nyx
+Mosswort Bridge
+Boseiju, Who Endures
+Myriad Landscape
+Yavimaya, Cradle of Growth
+Oran-Rief, the Vastwood
+War Room
+Blighted Woodland
+Shifting Woodland
+Tranquil Thicket
+Dryad Arbor
+Evolving Wilds
+Temple of the False God
+Gaea's Cradle
+Karn's Bastion
+Terramorphic Expanse
+Bonders' Enclave
+Fabled Passage
+Wirewood Lodge
+Ancient Tomb
+Cavern of Souls
+Snow-Covered Forest
+Three Tree City
+Argoth, Sanctum of Nature
+Command Beacon
+Lair of the Hydra
+
+Azorius:
+
+Command Tower
+Prairie Stream
+Glacial Fortress
+Port Town
+Reliquary Tower
+Hallowed Fountain
+Sea of Clouds
+Temple of Enlightenment
+Azorius Chancery
+Adarkar Wastes
+Deserted Beach
+Skycloud Expanse
+Flooded Strand
+Exotic Orchard
+Nimbus Maze
+Floodfarm Verge
+Irrigated Farmland
+Hengegate Pathway
+Myriad Landscape
+Mystic Sanctuary
+Mystic Gate
+Otawara, Soaring City
+Evolving Wilds
+Meticulous Archive
+Tranquil Cove
+Ancient Den
+Path of Ancestry
+Razortide Bridge
+Rogue's Passage
+Seat of the Synod
+Seachrome Coast
+Eiganjo, Seat of the Empire
+Terramorphic Expanse
+Tundra
+Academy Ruins
+Darksteel Citadel
+Glacial Floodplain
+Urza's Saga
+Idyllic Beachfront
+Muraganda Raceway
+Spire of Industry
+Ancient Tomb
+Inventors' Fair
+Amonkhet Raceway
+Buried Ruin
+Fabled Passage
+Minamo, School at Water's Edge
+
+Dimir:
+
+Command Tower
+Sunken Hollow
+Choked Estuary
+Drowned Catacomb
+Watery Grave
+Tainted Isle
+Dimir Aqueduct
+Darkwater Catacombs
+Bojuka Bog
+Shipwreck Marsh
+Temple of Deceit
+Morphic Pool
+Underground River
+Reliquary Tower
+Exotic Orchard
+Path of Ancestry
+Polluted Delta
+Rogue's Passage
+Clearwater Pathway
+Myriad Landscape
+Gloomlake Verge
+Urborg, Tomb of Yawgmoth
+Otawara, Soaring City
+Undercity Sewers
+Mystic Sanctuary
+Evolving Wilds
+Dismal Backwater
+Fetid Pools
+Takenuma, Abandoned Mire
+Darkslick Shores
+Sunken Ruins
+Underground Sea
+Cabal Coffers
+Terramorphic Expanse
+River of Tears
+Ancient Tomb
+Nephalia Drownyard
+Temple of the False God
+Cavern of Souls
+Creeping Tar Pit
+
+Rakdos:
+
+Command Tower
+Smoldering Marsh
+Dragonskull Summit
+Foreboding Ruins
+Blood Crypt
+Sulfurous Springs
+Luxury Suite
+Tainted Peak
+Bojuka Bog
+Rakdos Carnarium
+Temple of Malice
+Shadowblood Ridge
+Haunted Ridge
+Exotic Orchard
+Bloodstained Mire
+Blazemire Verge
+Blightstep Pathway
+Graven Cairns
+Myriad Landscape
+Evolving Wilds
+Raucous Theater
+Urborg, Tomb of Yawgmoth
+Bloodfell Caves
+Rogue's Passage
+Blackcleave Cliffs
+Canyon Slough
+Mount Doom
+Terramorphic Expanse
+Reliquary Tower
+Path of Ancestry
+Badlands
+Ancient Tomb
+Cabal Coffers
+Geothermal Bog
+Jagged Barrens
+Phyrexian Tower
+Spinerock Knoll
+Takenuma, Abandoned Mire
+Temple of the False God
+Arena of Glory
+
+Gruul:
+
+Command Tower
+Cinder Glade
+Rootbound Crag
+Game Trail
+Rockfall Vale
+Stomping Ground
+Kessig Wolf Run
+Gruul Turf
+Karplusan Forest
+Spire Garden
+Temple of Abandon
+Mossfire Valley
+Rogue's Passage
+Wooded Foothills
+Reliquary Tower
+Exotic Orchard
+Mosswort Bridge
+Cragcrown Pathway
+Evolving Wilds
+Thornspire Verge
+Sheltered Thicket
+Boseiju, Who Endures
+Myriad Landscape
+Yavimaya, Cradle of Growth
+Commercial District
+Path of Ancestry
+Terramorphic Expanse
+Copperline Gorge
+Fire-Lit Thicket
+Wooded Ridgeline
+Rugged Highlands
+Skarrg, the Rage Pits
+Fabled Passage
+Taiga
+Highland Forest
+Arena of Glory
+Castle Garenbrig
+Raging Ravine
+Temple of the False God
+Blighted Woodland
+Spinerock Knoll
+Ancient Tomb
+Grove of the Burnwillows
+
+Selesnya:
+
+Command Tower
+Canopy Vista
+Sunpetal Grove
+Fortified Village
+Temple Garden
+Bountiful Promenade
+Overgrown Farmland
+Selesnya Sanctuary
+Temple of Plenty
+Sungrass Prairie
+Brushland
+Reliquary Tower
+Gavony Township
+Windswept Heath
+Branchloft Pathway
+Hushwood Verge
+Krosan Verge
+Rogue's Passage
+Exotic Orchard
+Blossoming Sands
+Evolving Wilds
+Path of Ancestry
+Scattered Groves
+Yavimaya, Cradle of Growth
+Myriad Landscape
+Boseiju, Who Endures
+Lush Portico
+Radiant Grove
+Wooded Bastion
+Hall of Heliod's Generosity
+Horizon Canopy
+Razorverge Thicket
+Terramorphic Expanse
+Castle Ardenvale
+Mosswort Bridge
+Savannah
+Graypelt Refuge
+Arctic Treeline
+Eiganjo, Seat of the Empire
+Minas Tirith
+Fabled Passage
+Karn's Bastion
+Selesnya Guildgate
+Temple of the False God
+Three Tree City
+Oran-Rief, the Vastwood
+Restless Prairie
+Blighted Woodland
+Cavern of Souls
+Gaea's Cradle
+Windbrisk Heights
+Ancient Tomb
+
+Orzhov:
+
+Command Tower
+Isolated Chapel
+Caves of Koilos
+Tainted Field
+Godless Shrine
+Bojuka Bog
+Orzhov Basilica
+Temple of Silence
+Shineshadow Snarl
+Vault of Champions
+Fetid Heath
+Vault of the Archangel
+Shattered Sanctum
+Brightclimb Pathway
+Marsh Flats
+Path of Ancestry
+Exotic Orchard
+Myriad Landscape
+Scoured Barrens
+Shadowy Backstreet
+Urborg, Tomb of Yawgmoth
+Evolving Wilds
+Reliquary Tower
+Concealed Courtyard
+Rogue's Passage
+Phyrexian Tower
+Silent Clearing
+Terramorphic Expanse
+Bleachbone Verge
+Cabal Coffers
+Desolate Mire
+High Market
+Castle Locthwain
+Sunlit Marsh
+Takenuma, Abandoned Mire
+Eiganjo, Seat of the Empire
+Scrubland
+Snowfield Sinkhole
+Fabled Passage
+Hall of Heliod's Generosity
+Orzhov Guildgate
+Restless Fortress
+Minas Tirith
+Temple of the False God
+War Room
+Westvale Abbey
+Ancient Tomb
+Castle Ardenvale
+Secluded Courtyard
+Unclaimed Territory
+Windbrisk Heights
+
+Izzet:
+
+Command Tower
+Sulfur Falls
+Shivan Reef
+Reliquary Tower
+Steam Vents
+Temple of Epiphany
+Training Center
+Izzet Boilerworks
+Frostboil Snarl
+Cascade Bluffs
+Stormcarved Coast
+Exotic Orchard
+Scalding Tarn
+Mystic Sanctuary
+Riverglide Pathway
+Ferrous Lake
+Fiery Islet
+Myriad Landscape
+Evolving Wilds
+Thundering Falls
+Otawara, Soaring City
+Swiftwater Cliffs
+Path of Ancestry
+Terramorphic Expanse
+Riverpyre Verge
+Volcanic Island
+Rogue's Passage
+Spirebluff Canal
+Desolate Lighthouse
+Izzet Guildgate
+Molten Tributary
+Silverbluff Bridge
+Temple of the False God
+Ancient Tomb
+Flooded Strand
+Great Furnace
+
+Golgari:
+
+Command Tower
+Woodland Cemetery
+Llanowar Wastes
+Overgrown Tomb
+Golgari Rot Farm
+Tainted Wood
+Undergrowth Stadium
+Bojuka Bog
+Temple of Malady
+Necroblossom Snarl
+Twilight Mire
+Deathcap Glade
+Verdant Catacombs
+Yavimaya, Cradle of Growth
+Evolving Wilds
+Exotic Orchard
+Jungle Hollow
+Urborg, Tomb of Yawgmoth
+Rogue's Passage
+Path of Ancestry
+Reliquary Tower
+Darkbore Pathway
+Underground Mortuary
+Terramorphic Expanse
+Myriad Landscape
+Viridescent Bog
+Boseiju, Who Endures
+Haunted Mire
+Nurturing Peatland
+Phyrexian Tower
+Blooming Marsh
+Fabled Passage
+Grim Backwoods
+Swarmyard
+Takenuma, Abandoned Mire
+Three Tree City
+Bayou
+Cabal Coffers
+Darkmoss Bridge
+Golgari Guildgate
+High Market
+Oran-Rief, the Vastwood
+Restless Cottage
+Shifting Woodland
+Wastewood Verge
+Woodland Chasm
+Dryad Arbor
+The Shire
+Barren Moor
+Tranquil Thicket
+Blighted Woodland
+Dakmor Salvage
+Foul Orchard
+Gingerbread Cabin
+
+Boros:
+
+Command Tower
+Clifftop Retreat
+Battlefield Forge
+Boros Garrison
+Furycalm Snarl
+Sacred Foundry
+Spectator Seating
+Temple of Triumph
+Rugged Prairie
+Sundown Pass
+Rogue's Passage
+Arid Mesa
+Needleverge Pathway
+Exotic Orchard
+Myriad Landscape
+Slayers' Stronghold
+Evolving Wilds
+Sunhome, Fortress of the Legion
+Elegant Parlor
+Reliquary Tower
+Sunscorched Divide
+Wind-Scarred Crag
+Path of Ancestry
+Sunbaked Canyon
+Buried Ruin
+Eiganjo, Seat of the Empire
+Inspiring Vantage
+Minas Tirith
+Terramorphic Expanse
+Sacred Peaks
+Plateau
+Rustvale Bridge
+Sokenzan, Crucible of Defiance
+Sunbillow Verge
+Ancient Den
+Axgard Armory
+Great Furnace
+War Room
+Boros Guildgate
+Castle Ardenvale
+Castle Embereth
+Temple of the False God
+Urza's Saga
+Alpine Meadow
+
+Simic:
+
+Command Tower
+Hinterland Harbor
+Yavimaya Coast
+Reliquary Tower
+Simic Growth Chamber
+Rejuvenating Springs
+Breeding Pool
+Temple of Mystery
+Dreamroot Cascade
+Flooded Grove
+Vineglimmer Snarl
+Misty Rainforest
+Evolving Wilds
+Exotic Orchard
+Myriad Landscape
+Barkchannel Pathway
+Boseiju, Who Endures
+Yavimaya, Cradle of Growth
+Rogue's Passage
+Terramorphic Expanse
+Waterlogged Grove
+Hedge Maze
+Otawara, Soaring City
+Alchemist's Refuge
+Overflowing Basin
+Tangled Islet
+Thornwood Falls
+Mosswort Bridge
+Path of Ancestry
+Temple of the False God
+Fabled Passage
+Tropical Island
+Mystic Sanctuary
+Botanical Sanctum
+Karn's Bastion
+Rimewood Falls
+Ancient Tomb
+
+Esper:
+
+Command Tower
+Exotic Orchard
+Arcane Sanctum
+Hallowed Fountain
+Godless Shrine
+Watery Grave
+Raffine's Tower
+Prairie Stream
+Sunken Hollow
+Sea of Clouds
+Flooded Strand
+Marsh Flats
+Morphic Pool
+Caves of Koilos
+Polluted Delta
+Vault of Champions
+Reliquary Tower
+Glacial Fortress
+Isolated Chapel
+Bojuka Bog
+Drowned Catacomb
+Path of Ancestry
+Adarkar Wastes
+Evolving Wilds
+Underground River
+Temple of Silence
+Shipwreck Marsh
+Deserted Beach
+Temple of Deceit
+Temple of Enlightenment
+Terramorphic Expanse
+Otawara, Soaring City
+Azorius Chancery
+Contaminated Landscape
+Orzhov Basilica
+Port Town
+Accursed Duneyard
+Choked Estuary
+Dimir Aqueduct
+Scrubland
+City of Brass
+Shattered Sanctum
+Tundra
+Underground Sea
+
+Grixis:
+
+Command Tower
+Crumbling Necropolis
+Exotic Orchard
+Sulfur Falls
+Watery Grave
+Blood Crypt
+Dragonskull Summit
+Steam Vents
+Sunken Hollow
+Xander's Lounge
+Drowned Catacomb
+Smoldering Marsh
+Morphic Pool
+Reliquary Tower
+Training Center
+Luxury Suite
+Path of Ancestry
+Bloodstained Mire
+Polluted Delta
+Scalding Tarn
+Shivan Reef
+Evolving Wilds
+Bojuka Bog
+Shipwreck Marsh
+Sulfurous Springs
+Underground River
+Rogue's Passage
+Stormcarved Coast
+Terramorphic Expanse
+Foreboding Ruins
+Haunted Ridge
+Seething Landscape
+Choked Estuary
+Temple of Epiphany
+Frostboil Snarl
+Dimir Aqueduct
+Otawara, Soaring City
+Temple of Deceit
+Urborg, Tomb of Yawgmoth
+Badlands
+Izzet Boilerworks
+Rakdos Carnarium
+Temple of Malice
+Underground Sea
+Volcanic Island
+Ancient Tomb
+City of Brass
+Darkwater Catacombs
+Maestros Theater
+Myriad Landscape
+Mana Confluence
+Shadowblood Ridge
+The Black Gate
+Undercity Sewers
+Barad-dûr
+
+Jund:
+
+Command Tower
+Exotic Orchard
+Ziatora's Proving Ground
+Stomping Ground
+Overgrown Tomb
+Savage Lands
+Blood Crypt
+Cinder Glade
+Smoldering Marsh
+Verdant Catacombs
+Bloodstained Mire
+Wooded Foothills
+Undergrowth Stadium
+Spire Garden
+Luxury Suite
+Woodland Cemetery
+Dragonskull Summit
+Evolving Wilds
+Bojuka Bog
+Rootbound Crag
+Twisted Landscape
+Rockfall Vale
+Riveteers Overlook
+Llanowar Wastes
+Terramorphic Expanse
+Kessig Wolf Run
+Yavimaya, Cradle of Growth
+Boseiju, Who Endures
+Reliquary Tower
+Urborg, Tomb of Yawgmoth
+Karplusan Forest
+Myriad Landscape
+Commercial District
+Fabled Passage
+Path of Ancestry
+Temple of Malady
+Underground Mortuary
+Deathcap Glade
+Raucous Theater
+Sulfurous Springs
+Golgari Rot Farm
+Haunted Ridge
+Rogue's Passage
+Gruul Turf
+Badlands
+Bayou
+Taiga
+Temple of Abandon
+Game Trail
+Mossfire Valley
+Rakdos Carnarium
+Shadowblood Ridge
+
+Naya:
+
+Command Tower
+Jungle Shrine
+Exotic Orchard
+Cinder Glade
+Canopy Vista
+Jetmir's Garden
+Stomping Ground
+Temple Garden
+Sacred Foundry
+Clifftop Retreat
+Path of Ancestry
+Rootbound Crag
+Sunpetal Grove
+Bountiful Promenade
+Evolving Wilds
+Spire Garden
+Windswept Heath
+Spectator Seating
+Wooded Foothills
+Arid Mesa
+Rogue's Passage
+Rockfall Vale
+Terramorphic Expanse
+Overgrown Farmland
+Fortified Village
+Game Trail
+Mosswort Bridge
+Battlefield Forge
+Kessig Wolf Run
+Reliquary Tower
+Yavimaya, Cradle of Growth
+Sheltering Landscape
+Boseiju, Who Endures
+Brushland
+Karplusan Forest
+Myriad Landscape
+Selesnya Sanctuary
+Sundown Pass
+Temple of Triumph
+Gruul Turf
+Sungrass Prairie
+Temple of Abandon
+Temple of Plenty
+
+Bant:
+
+Command Tower
+Exotic Orchard
+Seaside Citadel
+Canopy Vista
+Prairie Stream
+Reliquary Tower
+Hallowed Fountain
+Temple Garden
+Breeding Pool
+Spara's Headquarters
+Hinterland Harbor
+Glacial Fortress
+Rejuvenating Springs
+Sunpetal Grove
+Bountiful Promenade
+Sea of Clouds
+Windswept Heath
+Yavimaya Coast
+Flooded Strand
+Misty Rainforest
+Evolving Wilds
+Dreamroot Cascade
+Overgrown Farmland
+Temple of Mystery
+Adarkar Wastes
+Brushland
+Deserted Beach
+Path of Ancestry
+Simic Growth Chamber
+Temple of Enlightenment
+Temple of Plenty
+Terramorphic Expanse
+Tranquil Landscape
+Azorius Chancery
+Boseiju, Who Endures
+Selesnya Sanctuary
+Sungrass Prairie
+Flooded Grove
+Skycloud Expanse
+Yavimaya, Cradle of Growth
+Otawara, Soaring City
+Rogue's Passage
+Fortified Village
+Port Town
+Brokers Hideout
+Savannah
+Tropical Island
+Tundra
+Fabled Passage
+Hedge Maze
+Krosan Verge
+Lush Portico
+Hushwood Verge
+Meticulous Archive
+Myriad Landscape
+Overflowing Basin
+Alchemist's Refuge
+Barkchannel Pathway
+Branchloft Pathway
+City of Brass
+
+Abzan:
+
+Command Tower
+Exotic Orchard
+Sandsteppe Citadel
+Overgrown Tomb
+Temple Garden
+Godless Shrine
+Canopy Vista
+Indatha Triome
+Woodland Cemetery
+Isolated Chapel
+Sunpetal Grove
+Verdant Catacombs
+Windswept Heath
+Marsh Flats
+Undergrowth Stadium
+Bountiful Promenade
+Bojuka Bog
+Evolving Wilds
+Vault of Champions
+Yavimaya, Cradle of Growth
+Brushland
+Caves of Koilos
+Llanowar Wastes
+Path of Ancestry
+Boseiju, Who Endures
+Deceptive Landscape
+Fortified Village
+Murmuring Bosk
+Necroblossom Snarl
+Shineshadow Snarl
+Urborg, Tomb of Yawgmoth
+Golgari Rot Farm
+Lush Portico
+Underground Mortuary
+Selesnya Sanctuary
+Shadowy Backstreet
+Rogue's Passage
+Terramorphic Expanse
+Orzhov Basilica
+Overgrown Farmland
+Temple of Malady
+Temple of Silence
+Krosan Verge
+Temple of Plenty
+Deathcap Glade
+Fabled Passage
+Scattered Groves
+
+Jeskai:
+
+Command Tower
+Exotic Orchard
+Mystic Monastery
+Glacial Fortress
+Sulfur Falls
+Clifftop Retreat
+Hallowed Fountain
+Prairie Stream
+Steam Vents
+Sacred Foundry
+Raugrin Triome
+Battlefield Forge
+Shivan Reef
+Training Center
+Reliquary Tower
+Sea of Clouds
+Spectator Seating
+Arid Mesa
+Flooded Strand
+Evolving Wilds
+Scalding Tarn
+Temple of Epiphany
+Adarkar Wastes
+Path of Ancestry
+Temple of Enlightenment
+Temple of Triumph
+Deserted Beach
+Port Town
+Stormcarved Coast
+Furycalm Snarl
+Rogue's Passage
+Terramorphic Expanse
+Sundown Pass
+Perilous Landscape
+Skycloud Expanse
+Frostboil Snarl
+Cascade Bluffs
+Azorius Chancery
+Izzet Boilerworks
+Myriad Landscape
+Otawara, Soaring City
+Rugged Prairie
+Boros Garrison
+Mystic Gate
+Plateau
+Tundra
+Volcanic Island
+Ferrous Lake
+City of Brass
+
+Sultai:
+
+Exotic Orchard
+Opulent Palace
+Overgrown Tomb
+Breeding Pool
+Watery Grave
+Zagoth Triome
+Hinterland Harbor
+Woodland Cemetery
+Misty Rainforest
+Rejuvenating Springs
+Sunken Hollow
+Verdant Catacombs
+Polluted Delta
+Drowned Catacomb
+Reliquary Tower
+Undergrowth Stadium
+Yavimaya Coast
+Evolving Wilds
+Llanowar Wastes
+Bojuka Bog
+Morphic Pool
+Simic Growth Chamber
+Terramorphic Expanse
+Boseiju, Who Endures
+Dimir Aqueduct
+Dreamroot Cascade
+Golgari Rot Farm
+Foreboding Landscape
+Temple of Malady
+Temple of Mystery
+Yavimaya, Cradle of Growth
+Path of Ancestry
+Temple of Deceit
+Urborg, Tomb of Yawgmoth
+Hedge Maze
+Rogue's Passage
+Underground River
+Darkwater Catacombs
+Otawara, Soaring City
+Shipwreck Marsh
+Underground Mortuary
+Deathcap Glade
+Fabled Passage
+Undercity Sewers
+Bayou
+Myriad Landscape
+Overflowing Basin
+Tropical Island
+Viridescent Bog
+Underground Sea
+Command Tower
+
+Mardu:
+
+Command Tower
+Nomad Outpost
+Exotic Orchard
+Godless Shrine
+Dragonskull Summit
+Blood Crypt
+Isolated Chapel
+Sacred Foundry
+Clifftop Retreat
+Savai Triome
+Caves of Koilos
+Vault of Champions
+Battlefield Forge
+Spectator Seating
+Luxury Suite
+Path of Ancestry
+Arid Mesa
+Marsh Flats
+Smoldering Marsh
+Bloodstained Mire
+Bojuka Bog
+Evolving Wilds
+Rogue's Passage
+Sulfurous Springs
+Temple of Silence
+Temple of Triumph
+Sundown Pass
+Terramorphic Expanse
+Haunted Ridge
+Shattered Landscape
+Shattered Sanctum
+Temple of Malice
+Vault of the Archangel
+Orzhov Basilica
+Boros Garrison
+Reliquary Tower
+Rakdos Carnarium
+Urborg, Tomb of Yawgmoth
+Myriad Landscape
+Fetid Heath
+Shadowblood Ridge
+Badlands
+Plateau
+Rugged Prairie
+Scrubland
+Tainted Field
+Blightstep Pathway
+Brightclimb Pathway
+City of Brass
+Desolate Mire
+Unclaimed Territory
+Blazemire Verge
+Bloodfell Caves
+Cavern of Souls
+Foreboding Ruins
+Mana Confluence
+Minas Tirith
+Needleverge Pathway
+Scoured Barrens
+Tainted Peak
+
+Temur:
+
+Command Tower
+Exotic Orchard
+Frontier Bivouac
+Stomping Ground
+Breeding Pool
+Steam Vents
+Ketria Triome
+Cinder Glade
+Rejuvenating Springs
+Hinterland Harbor
+Misty Rainforest
+Training Center
+Reliquary Tower
+Scalding Tarn
+Sulfur Falls
+Wooded Foothills
+Spire Garden
+Yavimaya Coast
+Rootbound Crag
+Evolving Wilds
+Path of Ancestry
+Rockfall Vale
+Shivan Reef
+Dreamroot Cascade
+Boseiju, Who Endures
+Bountiful Landscape
+Temple of Epiphany
+Temple of Mystery
+Karplusan Forest
+Simic Growth Chamber
+Stormcarved Coast
+Temple of Abandon
+Terramorphic Expanse
+Gruul Turf
+Izzet Boilerworks
+Otawara, Soaring City
+Rogue's Passage
+Yavimaya, Cradle of Growth
+Game Trail
+Taiga
+Tropical Island
+Myriad Landscape
+Volcanic Island
+Hedge Maze
+Kessig Wolf Run
+City of Brass
+Fabled Passage
+Ancient Tomb
+Commercial District
+
+NoGreen:
+
+Command Tower
+Exotic Orchard
+Watery Grave
+Hallowed Fountain
+Flooded Strand
+Marsh Flats
+Scalding Tarn
+Arid Mesa
+Polluted Delta
+Bloodstained Mire
+Spire of Industry
+Steam Vents
+Blood Crypt
+City of Brass
+Seat of the Synod
+Godless Shrine
+Mana Confluence
+Great Furnace
+Vault of Whispers
+Ancient Den
+Ancient Tomb
+Sacred Foundry
+Badlands
+Scrubland
+Tundra
+Underground Sea
+Volcanic Island
+Otawara, Soaring City
+Misty Rainforest
+Plateau
+Morphic Pool
+Verdant Catacombs
+Gemstone Caverns
+Mistvault Bridge
+Razortide Bridge
+Silverbluff Bridge
+Goldmire Bridge
+Drossforge Bridge
+Raffine's Tower
+Sea of Clouds
+Inventors' Fair
+Rustvale Bridge
+Xander's Lounge
+Raugrin Triome
+Wooded Foothills
+Academy Ruins
+Arcane Sanctum
+Crumbling Necropolis
+Training Center
+
+NoWhite:
+
+Command Tower
+Exotic Orchard
+Watery Grave
+Breeding Pool
+Steam Vents
+Misty Rainforest
+Overgrown Tomb
+Verdant Catacombs
+Polluted Delta
+Scalding Tarn
+Wooded Foothills
+Bloodstained Mire
+Stomping Ground
+Blood Crypt
+Ketria Triome
+City of Brass
+Zagoth Triome
+Ziatora's Proving Ground
+Mana Confluence
+Xander's Lounge
+Tropical Island
+Bayou
+Boseiju, Who Endures
+Frontier Bivouac
+Taiga
+Underground Sea
+Volcanic Island
+Badlands
+Crumbling Necropolis
+Rejuvenating Springs
+Reliquary Tower
+Flooded Strand
+Opulent Palace
+Marsh Flats
+Morphic Pool
+Training Center
+Savage Lands
+Evolving Wilds
+Otawara, Soaring City
+Undergrowth Stadium
+Windswept Heath
+Cinder Glade
+Luxury Suite
+Arid Mesa
+
+NoBlue:
+
+Command Tower
+Exotic Orchard
+Temple Garden
+Overgrown Tomb
+Stomping Ground
+Godless Shrine
+Blood Crypt
+Marsh Flats
+Windswept Heath
+Arid Mesa
+Sacred Foundry
+Verdant Catacombs
+Wooded Foothills
+Bloodstained Mire
+Indatha Triome
+Jetmir's Garden
+Ziatora's Proving Ground
+Savai Triome
+City of Brass
+Mana Confluence
+Bountiful Promenade
+Path of Ancestry
+Boseiju, Who Endures
+Undergrowth Stadium
+Jungle Shrine
+Bayou
+Savannah
+Scrubland
+Spire Garden
+Taiga
+Vault of Champions
+Badlands
+Nomad Outpost
+Plateau
+Sandsteppe Citadel
+Spectator Seating
+Misty Rainforest
+Savage Lands
+Evolving Wilds
+Luxury Suite
+Yavimaya, Cradle of Growth
+Canopy Vista
+Cinder Glade
+
+NoBlack:
+
+Command Tower
+Exotic Orchard
+Ketria Triome
+Spara's Headquarters
+Jetmir's Garden
+Raugrin Triome
+Jungle Shrine
+Frontier Bivouac
+Mystic Monastery
+Breeding Pool
+Temple Garden
+Hallowed Fountain
+Stomping Ground
+Steam Vents
+Sacred Foundry
+Rejuvenating Springs
+Bountiful Promenade
+Sea of Clouds
+Spire Garden
+Spectator Seating
+Training Center
+Savannah
+Taiga
+Tropical Island
+Tundra
+Volcanic Island
+Plateau
+Glacial Fortress
+Clifftop Retreat
+Hinterland Harbor
+Sulfur Falls
+Sunpetal Grove
+Rootbound Crag
+City of Brass
+Mana Confluence
+Reflecting Pool
+Forbidden Orchard
+Pillar of the Paruns
+Windswept Heath
+Misty Rainforest
+Arid Mesa
+Wooded Foothills
+
+NoRed:
+
+Command Tower
+Exotic Orchard
+Breeding Pool
+Watery Grave
+Overgrown Tomb
+Hallowed Fountain
+Temple Garden
+Godless Shrine
+Misty Rainforest
+Verdant Catacombs
+Marsh Flats
+Windswept Heath
+Flooded Strand
+Spara's Headquarters
+Zagoth Triome
+Indatha Triome
+Raffine's Tower
+Sandsteppe Citadel
+Arcane Sanctum
+Opulent Palace
+Seaside Citade
+City of Brass
+Mana Confluence
+Reflecting Pool
+Forbidden Orchard
+Rejuvenating Springs
+Undergrowth Stadium
+Bountiful Promenade
+Sea of Clouds
+Morphic Pool
+Vault of Champions
+Bayou
+Savannah
+Tropical Island
+Scrubland
+Tundra
+Underground Sea
+Evolving Wilds
+Terramorphic Expanse
+Fabled Passage
