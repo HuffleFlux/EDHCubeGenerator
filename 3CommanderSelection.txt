@@ -1,0 +1,20 @@
+Player1:
+Phenax, God of Deception
+Vrestin, Menoptra Leader
+
+Player2:
+Adriana, Captain of the Guard
+Ryan Sinclair
+
+Player3:
+Iymrith, Desert Doom
+Raff, Weatherlight Stalwart
+
+Player4:
+Omnath, Locus of Rage
+Rose Tyler
+
+DraftVariant:
+
+
+Round 2:

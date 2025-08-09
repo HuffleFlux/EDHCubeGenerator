@@ -14,7 +14,6 @@ Path of Ancestry
 Secluded Steppe
 Seraph Sanctuary
 Monumental Henge
-Ancient Tomb
 Hall of Heliod's Generosity
 Temple of the False God
 Three Tree City
@@ -43,7 +42,6 @@ War Room
 Lonely Sandbar
 Nykthos, Shrine to Nyx
 Rogue's Passage
-Ancient Tomb
 Buried Ruin
 Inventors' Fair
 Rivendell
@@ -73,7 +71,6 @@ War Room
 Rogue's Passage
 Geier Reach Sanitarium
 Mortuary Mire
-Ancient Tomb
 Barren Moor
 Crypt of Agadeem
 Shizo, Death's Storehouse
@@ -98,7 +95,6 @@ Arena of Glory
 Castle Embereth
 Nykthos, Shrine to Nyx
 Buried Ruin
-Ancient Tomb
 Spinerock Knoll
 Dwarven Mine
 Great Furnace
@@ -140,7 +136,6 @@ Terramorphic Expanse
 Bonders' Enclave
 Fabled Passage
 Wirewood Lodge
-Ancient Tomb
 Cavern of Souls
 Snow-Covered Forest
 Three Tree City
@@ -191,7 +186,6 @@ Urza's Saga
 Idyllic Beachfront
 Muraganda Raceway
 Spire of Industry
-Ancient Tomb
 Inventors' Fair
 Amonkhet Raceway
 Buried Ruin
@@ -235,7 +229,6 @@ Underground Sea
 Cabal Coffers
 Terramorphic Expanse
 River of Tears
-Ancient Tomb
 Nephalia Drownyard
 Temple of the False God
 Cavern of Souls
@@ -274,7 +267,6 @@ Terramorphic Expanse
 Reliquary Tower
 Path of Ancestry
 Badlands
-Ancient Tomb
 Cabal Coffers
 Geothermal Bog
 Jagged Barrens
@@ -327,7 +319,6 @@ Raging Ravine
 Temple of the False God
 Blighted Woodland
 Spinerock Knoll
-Ancient Tomb
 Grove of the Burnwillows
 
 Selesnya:
@@ -383,7 +374,6 @@ Blighted Woodland
 Cavern of Souls
 Gaea's Cradle
 Windbrisk Heights
-Ancient Tomb
 
 Orzhov:
 
@@ -433,7 +423,6 @@ Minas Tirith
 Temple of the False God
 War Room
 Westvale Abbey
-Ancient Tomb
 Castle Ardenvale
 Secluded Courtyard
 Unclaimed Territory
@@ -474,7 +463,6 @@ Izzet Guildgate
 Molten Tributary
 Silverbluff Bridge
 Temple of the False God
-Ancient Tomb
 Flooded Strand
 Great Furnace
 
@@ -620,7 +608,6 @@ Mystic Sanctuary
 Botanical Sanctum
 Karn's Bastion
 Rimewood Falls
-Ancient Tomb
 
 Esper:
 
@@ -716,7 +703,6 @@ Rakdos Carnarium
 Temple of Malice
 Underground Sea
 Volcanic Island
-Ancient Tomb
 City of Brass
 Darkwater Catacombs
 Maestros Theater
@@ -1159,7 +1145,6 @@ Hedge Maze
 Kessig Wolf Run
 City of Brass
 Fabled Passage
-Ancient Tomb
 Commercial District
 
 NoGreen:
@@ -1184,7 +1169,6 @@ Mana Confluence
 Great Furnace
 Vault of Whispers
 Ancient Den
-Ancient Tomb
 Sacred Foundry
 Badlands
 Scrubland

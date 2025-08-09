@@ -26,7 +26,7 @@ random.shuffle(commanders)
 
 # Assign commanders to players
 num_players = 4
-commanders_per_player = 2
+commanders_per_player = 4
 player_picks = {f"Player{i+1}": [] for i in range(num_players)}
 
 # Distribute commanders among players

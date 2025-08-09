@@ -1,0 +1,80 @@
+1 Arcane Signet
+1 Azorius Signet
+1 Beast Within
+1 Blasphemous Act
+1 Blood Crypt
+1 Boros Signet
+1 Bountiful Promenade
+1 Brainstorm
+1 Breeding Pool
+1 Chaos Warp
+1 Chromatic Lantern
+1 City of Brass
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Cultivate
+1 Damnation
+1 Dark Ritual
+1 Dimir Signet
+1 Esper Sentinel
+1 Evolving Wilds
+1 Exotic Orchard
+1 Faithless Looting
+1 Farseek
+1 Feed the Swarm
+1 Generous Gift
+1 Godless Shrine
+1 Golgari Signet
+1 Gruul Signet
+1 Hallowed Fountain
+1 Indatha Triome
+1 Izzet Signet
+1 Jetmir's Garden
+1 Ketria Triome
+1 Kodama's Reach
+1 Lightning Bolt
+1 Luxury Suite
+1 Mana Confluence
+1 Mentor of the Meek
+1 Morphic Pool
+1 Mystic Remora
+1 Nature's Lore
+1 Negate
+1 Orzhov Signet
+1 Overgrown Tomb
+1 Path to Exile
+1 Phyrexian Arena
+1 Raffine's Tower
+1 Rakdos Signet
+1 Rampant Growth
+1 Raugrin Triome
+1 Reanimate
+1 Rejuvenating Springs
+1 Sacred Foundry
+1 Savai Triome
+1 Sea of Clouds
+1 Selesnya Signet
+1 Simic Signet
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spara's Headquarters
+1 Spectator Seating
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Temple Garden
+1 Toxic Deluge
+1 Training Center
+1 Undergrowth Stadium
+1 Vandalblast
+1 Vault of Champions
+1 Watery Grave
+1 Whelming Wave
+1 Windfall
+1 Wrath of God
+1 Xander's Lounge
+1 Zagoth Triome
+1 Ziatora's Proving Ground

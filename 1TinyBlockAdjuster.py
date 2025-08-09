@@ -1,7 +1,10 @@
 import os
 import json
 import random
-import re  # Import regex for stripping numbers and "x"
+import re  # regex for stripping numbers and "x"
+
+# --- config ---
+TARGET_POOL_SIZE = 125  # final pool size to output
 
 # Get the current directory of the script
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -11,12 +14,23 @@ pool_file_path = os.path.join(current_directory, 'AllPrintings.json')
 with open(pool_file_path, encoding="utf8") as user_file:
     all_data = json.load(user_file)
 
-# Extract all cards into a single list, excluding basic lands
-all_cards = []
+# Extract ONE entry per card name (exclude basic lands)
+# If multiple printings exist, we keep the first one encountered.
+unique_cards_by_name = {}
 for set_info in all_data['data'].values():
-    for card in set_info['cards']:
-        if 'Basic' not in card.get('supertypes', []):  # Exclude basic lands
-            all_cards.append(card)
+    for card in set_info.get('cards', []):
+        if 'Basic' in card.get('supertypes', []):
+            continue  # skip basic lands
+        name = card.get('name')
+        if not name:
+            continue
+        # only keep the first time we see this name
+        if name not in unique_cards_by_name:
+            unique_cards_by_name[name] = card
+
+# Our canonical “all cards” list, one per name
+all_cards_unique = list(unique_cards_by_name.values())
+all_names = set(unique_cards_by_name.keys())
 
 def load_decklists():
     """Load decklists from text files in the same folder and strip numbers and 'x' from card names."""
@@ -24,57 +38,67 @@ def load_decklists():
     for file_name in os.listdir(current_directory):
         if file_name.endswith('.txt') and file_name.startswith('1decklist_'):
             with open(os.path.join(current_directory, file_name), 'r', encoding='utf-8') as file:
-                # Use regex to remove leading numbers, optional 'x' or 'X', and spaces
-                decklists.append([re.sub(r'^\d+[xX]?\s+', '', line.strip()) for line in file.readlines()])
+                # Remove leading numbers, optional 'x' or 'X', and spaces
+                deck = [re.sub(r'^\d+[xX]?\s+', '', line.strip()) for line in file.readlines() if line.strip()]
+                decklists.append(deck)
     return decklists
 
-def adjust_pool(cards, decklists, winning_cards):
-    """Adjust the pool of cards based on played and unplayed cards."""
-    # Convert card data to a dictionary for quick access
-    card_dict = {card['name']: card for card in cards}
+def adjust_pool(cards_by_name, decklists, winning_cards):
+    """
+    Adjust the pool of cards based on played and unplayed cards, working by NAME.
+    cards_by_name: dict name -> card (one printing per name)
+    """
+    # All names that appeared in any deck
+    played_names = set(card_name for deck in decklists for card_name in deck)
 
-    # Collect all cards used in the decks
-    played_cards = set(card for deck in decklists for card in deck)
+    # Start from all cards (dict copy)
+    pool = dict(cards_by_name)
 
-    # Remove winning cards
+    # Remove winning cards entirely
     for card_name in winning_cards:
-        card_dict.pop(card_name, None)
+        pool.pop(card_name, None)
 
-    # Remove unplayed cards (cards not in any deck)
-    for card_name in list(card_dict.keys()):  # Use list to avoid runtime modification errors
-        if card_name not in played_cards:
-            card_dict.pop(card_name)
+    # Remove unplayed cards (keep only names that appeared in at least one deck)
+    for card_name in list(pool.keys()):
+        if card_name not in played_names:
+            pool.pop(card_name, None)
 
-    return list(card_dict.values())
+    return pool  # still dict name->card
 
-def generate_random_cards(cards, count):
-    """Generate a list of unique random cards."""
-    return random.sample(cards, min(count, len(cards)))  # Ensure we don't exceed available cards
+def sample_new_cards(existing_names, count):
+    """Sample new unique card NAMES not already in the pool, then return their card dicts."""
+    available_names = list(all_names - existing_names)
+    if count <= 0 or not available_names:
+        return []
+    chosen_names = set(random.sample(available_names, min(count, len(available_names))))
+    return [unique_cards_by_name[n] for n in chosen_names]
 
 # Simulate a match with decklists and winning cards
-decklists = load_decklists()  # Load decklists from text files
-winning_cards = decklists[0] if decklists else []  # Assume the first deck is the winner if decklists exist
+decklists = load_decklists()
+winning_cards = decklists[0] if decklists else []  # assume first deck won if any exist
 
-# Adjust the pool of cards based on match results, only if decklists exist
 if decklists:
-    adjusted_pool = adjust_pool(all_cards, decklists, winning_cards)
+    # Adjust based on match results -> dict name->card
+    adjusted_pool_dict = adjust_pool(unique_cards_by_name, decklists, winning_cards)
 else:
-    adjusted_pool = []  # Start fresh if no decks are provided
+    adjusted_pool_dict = {}
 
-# Calculate the number of cards to replenish to maintain exactly 100 cards
-cards_to_replenish = 100 - len(adjusted_pool)
+# Replenish to TARGET_POOL_SIZE using names (no duplicate printings possible)
+current_names = set(adjusted_pool_dict.keys())
+cards_to_replenish = TARGET_POOL_SIZE - len(current_names)
+new_cards = sample_new_cards(current_names, cards_to_replenish)
 
-# Replenish the pool with new random cards
-new_cards = generate_random_cards([card for card in all_cards if card not in adjusted_pool], cards_to_replenish)
-adjusted_pool.extend(new_cards)
+# Final pool as a list of card dicts (unique by name)
+adjusted_pool = list(adjusted_pool_dict.values()) + new_cards
 
-# Ensure the pool has exactly 100 cards
-adjusted_pool = adjusted_pool[:100]
+# Trim in case we overshot (shouldn't happen but safe)
+adjusted_pool = adjusted_pool[:TARGET_POOL_SIZE]
 
-# Output the adjusted pool to a new file
+# Output the adjusted pool to a new file (names only)
 output_file_path = os.path.join(current_directory, '1AdjustedCardPool.txt')
 with open(output_file_path, 'w', encoding='utf-8') as file:
     file.write("Adjusted Card Pool:\n")
-    file.writelines(f"{card['name']}\n" for card in adjusted_pool)
+    for card in adjusted_pool:
+        file.write(f"{card['name']}\n")
 
 print(f"Adjusted card pool written to {output_file_path}")
